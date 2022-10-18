@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Purushotam Solanki Working as a Full stack web developer
-- 👀 I’m interested in ...
+- 👀 I’m interested in web desgining and developing
 - 🌱 I’m currently learning system designing
 - 📫 Personal Email - psolanki0004@gmail.com , Contact - +91-9872545140
 
